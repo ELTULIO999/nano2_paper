@@ -1,0 +1,379 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  27 OCT 2023 01:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex
+(c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02> (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks16
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1176.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+Package caption Info: float package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count269
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count270
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen174
+\lightrulewidth=\dimen175
+\cmidrulewidth=\dimen176
+\belowrulesep=\dimen177
+\belowbottomsep=\dimen178
+\aboverulesep=\dimen179
+\abovetopsep=\dimen180
+\cmidrulesep=\dimen181
+\cmidrulekern=\dimen182
+\defaultaddspace=\dimen183
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen184
+\@belowrulesep=\dimen185
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen186
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box55
+) (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 247.
+LaTeX Font Info:    ... okay on input line 247.
+
+-- Lines per column: 58 (exact).
+(C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen187
+\scratchbox=\box56
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen188
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks21
+) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (abstract.tex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 326.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 326.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 326.
+ (introduction.tex)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 332.
+ [1{C:/Users/estua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+] (experimentation.tex
+<Pictures/ExperimentalModel.png, id=9, 342.27875pt x 502.87875pt>
+File: Pictures/ExperimentalModel.png Graphic file (type png)
+<use Pictures/ExperimentalModel.png>
+Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 4.
+(pdftex.def)             Requested size: 205.36882pt x 301.72957pt.
+ (Exp_A.tex) (Exp_C.tex
+Underfull \hbox (badness 2617) in paragraph at lines 4--5
+\OT1/ptm/m/n/10 os-cil-la-tor. Al-though it was ini-tially in-tended to uti-lize
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[2 <./Pictures/ExperimentalModel.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 10--23
+ \OT1/ptm/m/it/10 3) Im-ple-men-ta-tion of the Pong game: [][] \OT1/ptm/m/n/10 The Ver-ilog
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+\OT1/ptm/m/n/10 code, pong[]neopixel.v, with the main mod-ule
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 10--23
+\OT1/ptm/m/n/10 "tt[]um[]pong[]neopixel", has been de-vel-oped with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--23
+
+ []
+
+)
+Underfull \hbox (badness 2961) in paragraph at lines 25--18
+\OT1/ptm/m/n/10 pwm[]generator.v, with the main mod-ule "tt[]um[]pwm",
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--18
+
+ []
+
+(Exp_D.tex)
+<Pictures/pwm_verified.png, id=15, 469.755pt x 310.761pt>
+File: Pictures/pwm_verified.png Graphic file (type png)
+<use Pictures/pwm_verified.png>
+Package pdftex.def Info: Pictures/pwm_verified.png  used on input line 26.
+(pdftex.def)             Requested size: 252.0pt x 166.70833pt.
+<Pictures/pong.png, id=16, 469.755pt x 311.2428pt>
+File: Pictures/pong.png Graphic file (type png)
+<use Pictures/pong.png>
+Package pdftex.def Info: Pictures/pong.png  used on input line 32.
+(pdftex.def)             Requested size: 252.0pt x 166.9668pt.
+<Pictures/verifide_zacapa.png, id=17, 469.755pt x 304.0158pt>
+File: Pictures/verifide_zacapa.png Graphic file (type png)
+<use Pictures/verifide_zacapa.png>
+Package pdftex.def Info: Pictures/verifide_zacapa.png  used on input line 38.
+(pdftex.def)             Requested size: 252.0pt x 163.08984pt.
+ [3 <./Pictures/pwm_verified.png> <./Pictures/pong.png>]
+<Pictures/delay ver.png, id=23, 469.755pt x 304.0158pt>
+File: Pictures/delay ver.png Graphic file (type png)
+<use Pictures/delay ver.png>
+Package pdftex.def Info: Pictures/delay ver.png  used on input line 44.
+(pdftex.def)             Requested size: 252.0pt x 163.08984pt.
+) (results.tex
+<Pictures/Result_Delay_2D_View.png, id=24, 1858.945pt x 1288.815pt>
+File: Pictures/Result_Delay_2D_View.png Graphic file (type png)
+<use Pictures/Result_Delay_2D_View.png>
+Package pdftex.def Info: Pictures/Result_Delay_2D_View.png  used on input line 8.
+(pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
+<Pictures/Result_Delay_3D_View.png, id=25, 1143.0705pt x 585.387pt>
+File: Pictures/Result_Delay_3D_View.png Graphic file (type png)
+<use Pictures/Result_Delay_3D_View.png>
+Package pdftex.def Info: Pictures/Result_Delay_3D_View.png  used on input line 12.
+(pdftex.def)             Requested size: 232.19843pt x 118.90643pt.
+<Pictures/Result_ASCII_2D_View.png, id=26, 1858.945pt x 1288.815pt>
+File: Pictures/Result_ASCII_2D_View.png Graphic file (type png)
+<use Pictures/Result_ASCII_2D_View.png>
+Package pdftex.def Info: Pictures/Result_ASCII_2D_View.png  used on input line 23.
+(pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
+<Pictures/Result_ASCII_3D_View.png, id=27, 1138.85475pt x 587.19376pt>
+File: Pictures/Result_ASCII_3D_View.png Graphic file (type png)
+<use Pictures/Result_ASCII_3D_View.png>
+Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 27.
+(pdftex.def)             Requested size: 232.19843pt x 119.72142pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Pictures/verifide_zacapa.png> <./Pictures/delay ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
+<Pictures/Result_Pong_2D_View.png, id=35, 1858.945pt x 1288.815pt>
+File: Pictures/Result_Pong_2D_View.png Graphic file (type png)
+<use Pictures/Result_Pong_2D_View.png>
+Package pdftex.def Info: Pictures/Result_Pong_2D_View.png  used on input line 38.
+(pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
+<Pictures/Result_Pong_3D_View.png, id=36, 1141.866pt x 586.5915pt>
+File: Pictures/Result_Pong_3D_View.png Graphic file (type png)
+<use Pictures/Result_Pong_3D_View.png>
+Package pdftex.def Info: Pictures/Result_Pong_3D_View.png  used on input line 42.
+(pdftex.def)             Requested size: 232.19843pt x 119.27641pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Pictures/Result_PWM_2D_View.png, id=37, 1858.945pt x 1288.815pt>
+File: Pictures/Result_PWM_2D_View.png Graphic file (type png)
+<use Pictures/Result_PWM_2D_View.png>
+Package pdftex.def Info: Pictures/Result_PWM_2D_View.png  used on input line 53.
+(pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
+<Pictures/Result_PWM_3D_View.png, id=38, 1141.866pt x 585.98924pt>
+File: Pictures/Result_PWM_3D_View.png Graphic file (type png)
+<use Pictures/Result_PWM_3D_View.png>
+Package pdftex.def Info: Pictures/Result_PWM_3D_View.png  used on input line 57.
+(pdftex.def)             Requested size: 232.19843pt x 119.15395pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 76.
+) (conclusion.tex) [6 <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3917 strings out of 475281
+ 74914 string characters out of 2774065
+ 424404 words of memory out of 3000000
+ 25358 multiletter control sequences out of 15000+600000
+ 511284 words of font info for 95 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 67i,9n,77p,1749b,445s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (6 pages, 8254142 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,7 +1,7 @@
 In this section, we present the final results for each individual verilog filed we have submitted:
 
 \subsection{Multi stage path for delay measurements}
-The multi stage path was submitted with no issues ans the
+The multi stage path was submitted with no errors, and the final layout is shown in figure\ \ref{fig:delay_Layout}. The final layout is composed of 4 stages, each stage has 4 inverters and 4 transmission gates.
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
@@ -15,10 +15,8 @@ The multi stage path was submitted with no issues ans the
     \caption{Multi stage path for delay measurements layout}\label{fig:delay_Layout}
 \end{figure}
 
-
-
 \subsection{ASCII Text Printer Circuit}
-Here we've used close to 
+The circuit ASCII text printer was submitted with no errors, and the final layout is shown in figure\ \ref{fig:ASCII_Layout}.
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
@@ -47,7 +45,7 @@ Here we've used close to
     \caption{The Pong game layout}\label{fig:Pong_Layout}
 \end{figure}
 
-subsection{Pulse Width Modulation Generator}
+\subsection{Pulse Width Modulation Generator}
 
 \begin{figure}[H]
     \centering
@@ -59,22 +57,22 @@ subsection{Pulse Width Modulation Generator}
         \includegraphics[width=\linewidth]{Pictures/Result_PWM_3D_View.png}
         \caption{View 3D}\label{fig:PWM_3D}
     \end{subfigure}
-    \caption{Pulse Width Modulation generator layout}
-    \label{fig:PWM}
+    \caption{Pulse Width Modulation generator layout}\label{fig:PWM}
 \end{figure}
 
-
 % Please add the following required packages to your document preamble:
-% \usepackage{booktabs}
+% \usepackage{graphicx}
 \begin{table}[H]
-\centering
-\begin{tabular}{@{}cc@{}}
-\toprule
-Circuit                                 & \begin{tabular}[c]{@{}c@{}}Porsentage utilize in \\ length of waver(\%)\end{tabular} \\ \midrule
-Multi stage path for delay measurements & 0.63                                                                                 \\
-ASCII Text Printer Circuit              & 17.87                                                                                \\
-Implementation of the Pong game         & 28.82                                                                                \\
-Pulse Width Modulation Generator        & 9.59                                                                                 \\ \bottomrule
-\caption{Porsentage utilize in length of waver per circuit.}\label{tab:RoutingStats}
-\end{tabular}
-\end{table}
+    \centering
+    \resizebox{\columnwidth}{!}{%
+    \begin{tabular}{cc}
+    \hline
+    Circuit                                 & Porcentage utilize(\%) \\ \hline
+    Multi stage path for delay measurements & 0.63                  \\
+    ASCII Text Printer Circuit              & 17.87                 \\
+    Implementation of the Pong game         & 28.82                 \\
+    Pulse Width Modulation Generator        & 9.59                  \\ \hline
+    \end{tabular}%
+    }
+    \caption{Porcentaje utilize in length of waver per circuit}\label{tab:PorcentUtil}
+    \end{table}
