@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1698450831 "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1698450841 0
+["pdflatex"] 1698452181 "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1698452191 0
   "C:/Users/julit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698377088 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/julit/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698377051 24175185 656cae3274cea36096659d48ff58c41c ""
   "C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -63,14 +63,14 @@
   "Pictures/pong.png" 1698371252 235598 26694fc8874828a559a1c4bd2629a8a6 ""
   "Pictures/pwm_verified.png" 1698371252 284384 9b57fd84af41a52837d4d5a9dfe41015 ""
   "Pictures/verifide_zacapa.png" 1698371252 217484 c050413d8fde3761449d46a02af0d0f7 ""
-  "abstract.tex" 1698450829 976 5c07c3366c68d0061470e6dcae2fe025 ""
-  "build/main.aux" 1698450841 5726 249c29e34e0b360888462224a3a26d4b "pdflatex"
+  "abstract.tex" 1698452179 1105 b7cb16faa0367c6739fa4fe014c20aac ""
+  "build/main.aux" 1698452190 5726 249c29e34e0b360888462224a3a26d4b "pdflatex"
   "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" 1698447521 16135 f6b1ef426886ccc925d878dc1b74e8fd ""
   "conclusion.tex" 1698371252 0 d41d8cd98f00b204e9800998ecf8427e ""
   "experimentation.tex" 1698449393 3703 e1272d6631ce37c7629ac796efa89708 ""
   "introduction.tex" 1698371251 5392 5f60807b6f782c73f810a7bbe9692b5e ""
   "main.tex" 1698447521 16135 f6b1ef426886ccc925d878dc1b74e8fd ""
-  "results.tex" 1698447477 3334 468256c3b44bcb4839b5ed1076a944e2 ""
+  "results.tex" 1698452179 3338 04721df52baa0fab68033777bd4870fe ""
   (generated)
   "build/main.aux"
   "build/main.log"
