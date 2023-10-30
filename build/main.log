@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  30 OCT 2023 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  30 OCT 2023 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,36 +315,36 @@ Package pdftex.def Info: Pictures/delay_ver.png  used on input line 44.
 <Pictures/Result_Delay_2D_View.png, id=23, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Delay_2D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_2D_View.png>
-Package pdftex.def Info: Pictures/Result_Delay_2D_View.png  used on input line 10.
+Package pdftex.def Info: Pictures/Result_Delay_2D_View.png  used on input line 13.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
 <Pictures/Result_Delay_3D_View.png, id=24, 1143.0705pt x 585.387pt>
 File: Pictures/Result_Delay_3D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_3D_View.png>
-Package pdftex.def Info: Pictures/Result_Delay_3D_View.png  used on input line 14.
+Package pdftex.def Info: Pictures/Result_Delay_3D_View.png  used on input line 17.
 (pdftex.def)             Requested size: 232.19843pt x 118.90643pt.
 <Pictures/Result_ASCII_2D_View.png, id=25, 1858.945pt x 1288.815pt>
 File: Pictures/Result_ASCII_2D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_2D_View.png>
-Package pdftex.def Info: Pictures/Result_ASCII_2D_View.png  used on input line 25.
+Package pdftex.def Info: Pictures/Result_ASCII_2D_View.png  used on input line 28.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
 <Pictures/Result_ASCII_3D_View.png, id=26, 1138.85475pt x 587.19376pt>
 File: Pictures/Result_ASCII_3D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_3D_View.png>
-Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 29.
+Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 32.
 (pdftex.def)             Requested size: 232.19843pt x 119.72142pt.
 
-Underfull \vbox (badness 4084) has occurred while \output is active []
+Underfull \vbox (badness 1515) has occurred while \output is active []
 
  [4 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
 <Pictures/Result_Pong_2D_View.png, id=35, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Pong_2D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_2D_View.png>
-Package pdftex.def Info: Pictures/Result_Pong_2D_View.png  used on input line 40.
+Package pdftex.def Info: Pictures/Result_Pong_2D_View.png  used on input line 43.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
 <Pictures/Result_Pong_3D_View.png, id=36, 1141.866pt x 586.5915pt>
 File: Pictures/Result_Pong_3D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_3D_View.png>
-Package pdftex.def Info: Pictures/Result_Pong_3D_View.png  used on input line 44.
+Package pdftex.def Info: Pictures/Result_Pong_3D_View.png  used on input line 47.
 (pdftex.def)             Requested size: 232.19843pt x 119.27641pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -352,19 +352,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <Pictures/Result_PWM_2D_View.png, id=37, 1858.945pt x 1288.815pt>
 File: Pictures/Result_PWM_2D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_2D_View.png>
-Package pdftex.def Info: Pictures/Result_PWM_2D_View.png  used on input line 55.
+Package pdftex.def Info: Pictures/Result_PWM_2D_View.png  used on input line 58.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
 <Pictures/Result_PWM_3D_View.png, id=38, 1141.866pt x 585.98924pt>
 File: Pictures/Result_PWM_3D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_3D_View.png>
-Package pdftex.def Info: Pictures/Result_PWM_3D_View.png  used on input line 59.
+Package pdftex.def Info: Pictures/Result_PWM_3D_View.png  used on input line 62.
 (pdftex.def)             Requested size: 232.19843pt x 119.15395pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 81.
 ) (conclusion.tex) [6 <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -380,7 +380,7 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  67i,9n,77p,1750b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (6 pages, 8256966 bytes).
+Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (6 pages, 8257103 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
