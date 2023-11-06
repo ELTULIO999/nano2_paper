@@ -1,13 +1,32 @@
-This section introduces the Verilog implementation within the framework of Tiny Tapeout, a project dedicated to generating chip layouts from Verilog files. In this context, we will delineate the four distinct designs produced, providing comprehensive descriptions of the modules and their respective behaviors.
+This section introduces the Verilog implementation within the framework of Tiny Tapeout, a project 
+dedicated to generating chip layouts from Verilog files. In this context, we will delineate the four 
+distinct designs produced, providing comprehensive descriptions of the modules and their respective behaviors.
 
-\subsubsection{Multi stage path for delay measurements}
-The core of the module featured an approach to creating a ring oscillator. Although it was initially intended to utilize cascaded NOT gates, it was observed that the synthesizer, under the constraints of the Tiny Tapeout design flow, may replace these gates with buffers. As a result, the oscillatory behavior was expectedly altered. Nevertheless, the module's ring oscillator function was realized through a sequence of logical operations involving AND gates and inverters, forming a feedback loop. The logical signals EN and EN\_2 served as inputs to an AND\_2 module, generating a waveform represented by W\_1. Subsequently, this waveform traversed a series of inverters (tt\_prim\_inv modules), resulting in the generation of W\_2, W\_3, and cyclically returning to W\_1. While this configuration may not conform precisely to the original design intent, it offers a valuable educational opportunity to explore gate delays and their implications in digital circuitry when compared to theoretical calculations.\\
+\subsubsection{Multy stage path for delay measurements}
+
+
+The core of the module featured an approach to creating a ring oscillator. 
+Although it was initially intended to utilize cascaded NOT gates, it was observed that the synthesizer, under the 
+constraints of the Tiny Tapeout design flow, may replace these gates with buffers. 
+As a result, the oscillatory behavior was expectedly altered. Nevertheless, the module's ring 
+oscillator function was realized through a sequence of logical operations involving AND gates and 
+inverters, forming a feedback loop. The logical signals EN and EN\_2 served as inputs to an AND\_2 
+module, generating a waveform represented by W\_1. Subsequently, this waveform traversed a series of 
+inverters (tt\_prim\_inv modules), resulting in the generation of W\_2, W\_3, and cyclically returning to W\_1. 
+While this configuration may not conform precisely to the original design intent, it offers a valuable educational 
+opportunity to explore gate delays and their implications in digital circuitry when compared to theoretical calculations.
 
 \subsubsection{ASCII Text Printer Circuit}
-A Verilog module was designed to function as a text printing system capable of displaying two distinct texts, which are selected through an external signal. The module employs an internal counter synchronized with the clock to determine the specific ASCII character displayed based on the selection signal and the counter value. The output is provided through the output pins in ASCII format.\\
+
+
+A Verilog module was designed to function as a text printing system capable of displaying two distinct 
+texts, which are selected through an external signal. The module employs an internal counter synchronized 
+with the clock to determine the specific ASCII character displayed based on the selection signal and the 
+counter value. The output is provided through the output pins in ASCII format.
 
 \subsubsection{Implementation of the Pong game}
-The Verilog code, pong\_neopixel.v, with the main module "tt\_um\_pong\_neopixel", has been 
+
+The Verilog code, pong\_neopixel.v, with the main module ``tt\_um\_pong\_neopixel", has been 
 developed with the purpose of implementing a version of the Pong game on a Neopixel pixel 
 matrix. This design has been conceived as an example of an interactive and playful application 
 of programmable digital hardware. The "tt\_um\_pong\_neopixel" module consists of several 
@@ -19,10 +38,13 @@ collision detection and game reset when appropriate. In addition, logic has been
 generate Neopixel signals that control the display on the matrix, allowing player interaction. 
 This design also incorporates counters to track the sending of data to the matrix and 
 appropriately selects whether LEDs should be turned on or off based on the position of the 
-ball and paddles.\\
+ball and paddles.
 
 \subsubsection{Pulse Width Modulation Generator}
+
+
 The Verilog code, pwm\_generator.v, with the main module "tt\_um\_pwm", is designed to 
-generate a pulse width modulation (PWM) signal controlled by buttons. The module allows the duty cycle of the PWM signal to be increased or 
-decreased via buttons. To ensure a reliable reading of the buttons, debounce logic is implemented that 
-generates a slow clock signal (slow\_clk\_enable).\\
+generate a pulse width modulation (PWM) signal controlled by buttons. The module allows 
+the duty cycle of the PWM signal to be increased or decreased via buttons. To ensure a 
+reliable reading of the buttons, debounce logic is implemented that 
+generates a slow clock signal (slow\_clk\_enable).

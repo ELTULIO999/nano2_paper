@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  6 NOV 2023 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  6 NOV 2023 15:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,13 +432,13 @@ Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 \@quotereset=\count404
  (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux
 
-c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux:9: LaTeX Error: Missing \begin{document}.
+c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux:2: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 <
+l.2 <
      <<<<<< HEAD
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -459,6 +459,39 @@ LaTeX Warning: Label `fig:ascii_verified' multiply defined.
 LaTeX Warning: Label `fig:delay_verified' multiply defined.
 
 
+LaTeX Warning: Label `fig:delay_2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:delay_2D' multiply defined.
+
+
+LaTeX Warning: Label `fig:delay_3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:delay_3D' multiply defined.
+
+
+LaTeX Warning: Label `fig:delay_Layout' multiply defined.
+
+
+LaTeX Warning: Label `fig:ASCII_2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ASCII_2D' multiply defined.
+
+
+LaTeX Warning: Label `fig:ASCII_3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ASCII_3D' multiply defined.
+
+
+LaTeX Warning: Label `fig:ASCII_Layout' multiply defined.
+
+
+LaTeX Warning: Label `tab:PorcentUtil' multiply defined.
+
+
 LaTeX Warning: Label `fig:pong_2D' multiply defined.
 
 
@@ -472,6 +505,21 @@ LaTeX Warning: Label `sub@fig:pong_3D' multiply defined.
 
 
 LaTeX Warning: Label `fig:Pong_Layout' multiply defined.
+
+
+LaTeX Warning: Label `fig:PWM_2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:PWM_2D' multiply defined.
+
+
+LaTeX Warning: Label `fig:PWM_3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:PWM_3D' multiply defined.
+
+
+LaTeX Warning: Label `fig:PWM' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -493,23 +541,8 @@ LaTeX Font Info:    ... okay on input line 253.
 
 -- Lines per column: 58 (exact).
 (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-[]\OT1/ptm/m/n/10 <<<<<<< HEAD   =======   >>>>>>>
- []
-
-
-Underfull \hbox (badness 3780) in paragraph at lines 9--13
-\OT1/ptm/m/n/10 HEAD         =======         >>>>>>>
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--13
-\OT1/ptm/m/n/10 788a07573c0add35c3d185244d8c045e9b3beb4a
- []
-
-
-Underfull \hbox (badness 2970) in paragraph at lines 9--13
-\OT1/ptm/m/n/10 <<<<<<< HEAD       =======        >>>>>>>
+Overfull \hbox (7.17496pt too wide) in paragraph at lines 2--13
+[]\OT1/ptm/m/n/10 <<<<<<< HEAD                                                                    =======
  []
 
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -565,79 +598,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Pictures/ExperimentalModel.png, id=12, 342.27875pt x 502.87875pt>
 File: Pictures/ExperimentalModel.png Graphic file (type png)
 <use Pictures/ExperimentalModel.png>
-Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 4.
+Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 7.
 (pdftex.def)             Requested size: 205.36882pt x 301.72957pt.
- (Exp_A.tex) (Exp_C.tex
-Underfull \hbox (badness 2617) in paragraph at lines 4--5
-\OT1/ptm/m/n/10 os-cil-la-tor. Al-though it was ini-tially in-tended to uti-lize
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-[3 <./Pictures/ExperimentalModel.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 10--23
+ (Exp_A.tex) (Exp_C.tex [3 <./Pictures/ExperimentalModel.png>]
+Underfull \hbox (badness 4899) in paragraph at lines 29--42
  \OT1/ptm/m/it/10 3) Im-ple-men-ta-tion of the Pong game: [][] \OT1/ptm/m/n/10 The Ver-ilog
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--23
+Underfull \hbox (badness 10000) in paragraph at lines 29--42
 \OT1/ptm/m/n/10 code, pong[]neopixel.v, with the main mod-ule
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 10--23
-\OT1/ptm/m/n/10 "tt[]um[]pong[]neopixel", has been de-vel-oped with the
+Underfull \hbox (badness 8189) in paragraph at lines 29--42
+\OT1/ptm/m/n/10 ``tt[]um[]pong[]neopixel", has been de-vel-oped with the
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--23
-
- []
-
-)
-Underfull \hbox (badness 2961) in paragraph at lines 25--20
-\OT1/ptm/m/n/10 pwm[]generator.v, with the main mod-ule "tt[]um[]pwm",
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--20
-
- []
-
-(Exp_D.tex)
+) (Exp_D.tex)
 <Pictures/pwm_verified.png, id=18, 469.755pt x 310.761pt>
 File: Pictures/pwm_verified.png Graphic file (type png)
 <use Pictures/pwm_verified.png>
-Package pdftex.def Info: Pictures/pwm_verified.png  used on input line 28.
+Package pdftex.def Info: Pictures/pwm_verified.png  used on input line 45.
 (pdftex.def)             Requested size: 252.0pt x 166.70833pt.
 <Pictures/pong.png, id=19, 469.755pt x 311.2428pt>
 File: Pictures/pong.png Graphic file (type png)
 <use Pictures/pong.png>
-Package pdftex.def Info: Pictures/pong.png  used on input line 34.
+Package pdftex.def Info: Pictures/pong.png  used on input line 51.
 (pdftex.def)             Requested size: 252.0pt x 166.9668pt.
-
-Underfull \vbox (badness 2865) has occurred while \output is active []
-
- [4 <./Pictures/pwm_verified.png>]
-<Pictures/verifide_zacapa.png, id=24, 469.755pt x 304.0158pt>
+<Pictures/verifide_zacapa.png, id=20, 469.755pt x 304.0158pt>
 File: Pictures/verifide_zacapa.png Graphic file (type png)
 <use Pictures/verifide_zacapa.png>
-Package pdftex.def Info: Pictures/verifide_zacapa.png  used on input line 40.
+Package pdftex.def Info: Pictures/verifide_zacapa.png  used on input line 57.
 (pdftex.def)             Requested size: 252.0pt x 163.08984pt.
-<Pictures/delay_ver.png, id=25, 469.755pt x 304.0158pt>
+<Pictures/delay_ver.png, id=21, 469.755pt x 304.0158pt>
 File: Pictures/delay_ver.png Graphic file (type png)
 <use Pictures/delay_ver.png>
-Package pdftex.def Info: Pictures/delay_ver.png  used on input line 46.
+Package pdftex.def Info: Pictures/delay_ver.png  used on input line 63.
 (pdftex.def)             Requested size: 252.0pt x 163.08984pt.
-) (results.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Pictures/pwm_verified.png>]) (results.tex
 <Pictures/Result_Delay_2D_View.png, id=26, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Delay_2D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_2D_View.png>
@@ -658,40 +660,31 @@ File: Pictures/Result_ASCII_3D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_3D_View.png>
 Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 32.
 (pdftex.def)             Requested size: 232.19843pt x 119.72142pt.
-
-Underfull \vbox (badness 1515) has occurred while \output is active []
-
- [5 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
-<Pictures/Result_Pong_2D_View.png, id=38, 1858.945pt x 1288.815pt>
+<Pictures/Result_Pong_2D_View.png, id=30, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Pong_2D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_2D_View.png>
 Package pdftex.def Info: Pictures/Result_Pong_2D_View.png  used on input line 43.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_Pong_3D_View.png, id=39, 1141.866pt x 586.5915pt>
+<Pictures/Result_Pong_3D_View.png, id=31, 1141.866pt x 586.5915pt>
 File: Pictures/Result_Pong_3D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_3D_View.png>
 Package pdftex.def Info: Pictures/Result_Pong_3D_View.png  used on input line 47.
 (pdftex.def)             Requested size: 232.19843pt x 119.27641pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<Pictures/Result_PWM_2D_View.png, id=40, 1858.945pt x 1288.815pt>
+<Pictures/Result_PWM_2D_View.png, id=32, 1858.945pt x 1288.815pt>
 File: Pictures/Result_PWM_2D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_2D_View.png>
 Package pdftex.def Info: Pictures/Result_PWM_2D_View.png  used on input line 58.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_PWM_3D_View.png, id=41, 1141.866pt x 585.98924pt>
+<Pictures/Result_PWM_3D_View.png, id=33, 1141.866pt x 585.98924pt>
 File: Pictures/Result_PWM_3D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_3D_View.png>
 Package pdftex.def Info: Pictures/Result_PWM_3D_View.png  used on input line 62.
 (pdftex.def)             Requested size: 232.19843pt x 119.15395pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 81.
-) (conclusion.tex) [7 <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
+) (conclusion.tex) [5 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>] [6 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>] [7
+
+ <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -700,15 +693,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12000 strings out of 475281
- 235774 string characters out of 2774065
- 987302 words of memory out of 3000000
- 33355 multiletter control sequences out of 15000+600000
+ 11999 strings out of 475281
+ 235765 string characters out of 2774065
+ 988172 words of memory out of 3000000
+ 33354 multiletter control sequences out of 15000+600000
  508464 words of font info for 92 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 67i,9n,77p,1749b,1318s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 67i,9n,77p,953b,1318s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (7 pages, 8258297 bytes).
+Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (7 pages, 8258592 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
