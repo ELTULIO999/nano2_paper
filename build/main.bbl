@@ -1,0 +1,61 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{CSIS2023Reshoring}{report}{}
+      \name{author}{3}{}{%
+        {{hash=046bde656113f5e1b61027690955853b}{%
+           family={Shivakumar},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=763ef28aba74927c436900328b12b841}{%
+           family={Wessner},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c7e77d60e94520d9cea3e77b58e410ca}{%
+           family={Howell},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Center for Strategic}%
+        {International Studies (CSIS)}%
+      }
+      \strng{namehash}{6c4836e6bcc098fda204586186d3eef5}
+      \strng{fullhash}{6c4836e6bcc098fda204586186d3eef5}
+      \strng{bibnamehash}{6c4836e6bcc098fda204586186d3eef5}
+      \strng{authorbibnamehash}{6c4836e6bcc098fda204586186d3eef5}
+      \strng{authornamehash}{6c4836e6bcc098fda204586186d3eef5}
+      \strng{authorfullhash}{6c4836e6bcc098fda204586186d3eef5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Reshoring Semiconductor Manufacturing: Addressing the Workforce Challenge}
+      \field{type}{techreport}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

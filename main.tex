@@ -239,11 +239,17 @@
 
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
-
+%\usepackage{cite}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{subcaption}
 \usepackage{booktabs}
+\usepackage{biblatex}
+%\bibliographystyle{IEEEtran}
+\bibliography{bibtex/bib/IEEEabrv.bib,bibtex/bib/references.bib}
+
+
+
 \begin{document}
 %
 % paper title
@@ -327,7 +333,9 @@ IEEE, IEEEtran, journal, \LaTeX, paper, template.
 \end{IEEEkeywords}
 
 \IEEEpeerreviewmaketitle
+
 \section{Introduction}
+
 \input{introduction}
 
 
@@ -361,14 +369,7 @@ The authors would like to thank...
   \newpage
 \fi
 
-\begin{thebibliography}{1}
-
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-
-\end{thebibliography}
-
+\printbibliography
 % biography section
 % 
 % If you have an EPS/PDF photo (graphicx package needed) extra braces are
