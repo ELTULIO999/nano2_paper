@@ -217,8 +217,6 @@ INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
-INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\Pictures\Result_Pong_2D_View.png
 INPUT .\Pictures\Result_Pong_2D_View.png
 INPUT .\Pictures\Result_Pong_2D_View.png
@@ -255,6 +253,8 @@ INPUT .\conclusion.tex
 INPUT .\conclusion.tex
 INPUT .\conclusion.tex
 INPUT conclusion.tex
+INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Users\julit\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm

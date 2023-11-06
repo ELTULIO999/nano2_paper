@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  30 OCT 2023 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  6 NOV 2023 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -239,79 +239,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Pictures/ExperimentalModel.png, id=9, 342.27875pt x 502.87875pt>
 File: Pictures/ExperimentalModel.png Graphic file (type png)
 <use Pictures/ExperimentalModel.png>
-Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 4.
+Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 7.
 (pdftex.def)             Requested size: 205.36882pt x 301.72957pt.
- (Exp_A.tex) (Exp_C.tex
-Underfull \hbox (badness 2617) in paragraph at lines 4--5
-\OT1/ptm/m/n/10 os-cil-la-tor. Al-though it was ini-tially in-tended to uti-lize
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-[2 <./Pictures/ExperimentalModel.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 10--23
+ (Exp_A.tex) (Exp_C.tex [2 <./Pictures/ExperimentalModel.png>]
+Underfull \hbox (badness 4899) in paragraph at lines 29--42
  \OT1/ptm/m/it/10 3) Im-ple-men-ta-tion of the Pong game: [][] \OT1/ptm/m/n/10 The Ver-ilog
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--23
+Underfull \hbox (badness 10000) in paragraph at lines 29--42
 \OT1/ptm/m/n/10 code, pong[]neopixel.v, with the main mod-ule
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 10--23
-\OT1/ptm/m/n/10 "tt[]um[]pong[]neopixel", has been de-vel-oped with the
+Underfull \hbox (badness 8189) in paragraph at lines 29--42
+\OT1/ptm/m/n/10 ``tt[]um[]pong[]neopixel", has been de-vel-oped with the
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--23
-
- []
-
-)
-Underfull \hbox (badness 2961) in paragraph at lines 25--18
-\OT1/ptm/m/n/10 pwm[]generator.v, with the main mod-ule "tt[]um[]pwm",
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--18
-
- []
-
-(Exp_D.tex)
+) (Exp_D.tex)
 <Pictures/pwm_verified.png, id=15, 469.755pt x 310.761pt>
 File: Pictures/pwm_verified.png Graphic file (type png)
 <use Pictures/pwm_verified.png>
-Package pdftex.def Info: Pictures/pwm_verified.png  used on input line 26.
+Package pdftex.def Info: Pictures/pwm_verified.png  used on input line 43.
 (pdftex.def)             Requested size: 252.0pt x 166.70833pt.
 <Pictures/pong.png, id=16, 469.755pt x 311.2428pt>
 File: Pictures/pong.png Graphic file (type png)
 <use Pictures/pong.png>
-Package pdftex.def Info: Pictures/pong.png  used on input line 32.
+Package pdftex.def Info: Pictures/pong.png  used on input line 49.
 (pdftex.def)             Requested size: 252.0pt x 166.9668pt.
-
-Underfull \vbox (badness 2865) has occurred while \output is active []
-
- [3 <./Pictures/pwm_verified.png>]
-<Pictures/verifide_zacapa.png, id=21, 469.755pt x 304.0158pt>
+<Pictures/verifide_zacapa.png, id=17, 469.755pt x 304.0158pt>
 File: Pictures/verifide_zacapa.png Graphic file (type png)
 <use Pictures/verifide_zacapa.png>
-Package pdftex.def Info: Pictures/verifide_zacapa.png  used on input line 38.
+Package pdftex.def Info: Pictures/verifide_zacapa.png  used on input line 55.
 (pdftex.def)             Requested size: 252.0pt x 163.08984pt.
-<Pictures/delay_ver.png, id=22, 469.755pt x 304.0158pt>
+<Pictures/delay_ver.png, id=18, 469.755pt x 304.0158pt>
 File: Pictures/delay_ver.png Graphic file (type png)
 <use Pictures/delay_ver.png>
-Package pdftex.def Info: Pictures/delay_ver.png  used on input line 44.
+Package pdftex.def Info: Pictures/delay_ver.png  used on input line 61.
 (pdftex.def)             Requested size: 252.0pt x 163.08984pt.
-) (results.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./Pictures/pwm_verified.png>]) (results.tex
 <Pictures/Result_Delay_2D_View.png, id=23, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Delay_2D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_2D_View.png>
@@ -332,55 +301,46 @@ File: Pictures/Result_ASCII_3D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_3D_View.png>
 Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 32.
 (pdftex.def)             Requested size: 232.19843pt x 119.72142pt.
-
-Underfull \vbox (badness 1515) has occurred while \output is active []
-
- [4 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
-<Pictures/Result_Pong_2D_View.png, id=35, 1858.945pt x 1288.815pt>
+<Pictures/Result_Pong_2D_View.png, id=27, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Pong_2D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_2D_View.png>
 Package pdftex.def Info: Pictures/Result_Pong_2D_View.png  used on input line 43.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_Pong_3D_View.png, id=36, 1141.866pt x 586.5915pt>
+<Pictures/Result_Pong_3D_View.png, id=28, 1141.866pt x 586.5915pt>
 File: Pictures/Result_Pong_3D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_3D_View.png>
 Package pdftex.def Info: Pictures/Result_Pong_3D_View.png  used on input line 47.
 (pdftex.def)             Requested size: 232.19843pt x 119.27641pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<Pictures/Result_PWM_2D_View.png, id=37, 1858.945pt x 1288.815pt>
+<Pictures/Result_PWM_2D_View.png, id=29, 1858.945pt x 1288.815pt>
 File: Pictures/Result_PWM_2D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_2D_View.png>
 Package pdftex.def Info: Pictures/Result_PWM_2D_View.png  used on input line 58.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_PWM_3D_View.png, id=38, 1141.866pt x 585.98924pt>
+<Pictures/Result_PWM_3D_View.png, id=30, 1141.866pt x 585.98924pt>
 File: Pictures/Result_PWM_3D_View.png Graphic file (type png)
 <use Pictures/Result_PWM_3D_View.png>
 Package pdftex.def Info: Pictures/Result_PWM_3D_View.png  used on input line 62.
 (pdftex.def)             Requested size: 232.19843pt x 119.15395pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 81.
-) (conclusion.tex) [6 <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.aux)
+) (conclusion.tex) [4 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>] [5 <./Pictures/Result_ASCII_2D_View.png> <./Pictures/Result_ASCII_3D_View.png> <./Pictures/Result_Pong_2D_View.png> <./Pictures/Result_Pong_3D_View.png>] [6
+
+ <./Pictures/Result_PWM_2D_View.png> <./Pictures/Result_PWM_3D_View.png>] (c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3932 strings out of 474824
- 75207 string characters out of 5750976
+ 3931 strings out of 474824
+ 75198 string characters out of 5750976
  1937043 words of memory out of 5000000
- 25851 multiletter control sequences out of 15000+600000
+ 25850 multiletter control sequences out of 15000+600000
  600094 words of font info for 103 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 67i,9n,77p,1750b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,9n,77p,954b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (6 pages, 8257103 bytes).
+Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (6 pages, 8257428 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
