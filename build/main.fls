@@ -394,14 +394,6 @@ INPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.bbl
 INPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.bbl
 INPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.bbl
 INPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.bbl
-OUTPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\estua\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\abstract.tex
 INPUT .\abstract.tex
 INPUT .\abstract.tex
@@ -424,6 +416,12 @@ INPUT introduction.tex
 INPUT .\introduction.tex
 INPUT .\introduction.tex
 INPUT introduction.tex
+OUTPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\estua\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
@@ -438,6 +436,8 @@ INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.v
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT .\experimentation.tex
 INPUT .\experimentation.tex
@@ -539,6 +539,8 @@ INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
 INPUT .\Pictures\Result_ASCII_3D_View.png
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\Pictures\Result_Pong_2D_View.png
 INPUT .\Pictures\Result_Pong_2D_View.png
 INPUT Pictures\Result_Pong_2D_View.png
@@ -577,8 +579,6 @@ INPUT conclusion.tex
 INPUT .\conclusion.tex
 INPUT .\conclusion.tex
 INPUT conclusion.tex
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Users\estua\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux
