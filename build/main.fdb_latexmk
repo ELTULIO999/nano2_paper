@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber build/main"] 1698451825 "build/main.bcf" "build/main.bbl" "build/main" 1698451833 0
+["biber build/main"] 1699307442 "build/main.bcf" "build/main.bbl" "build/main" 1699307479 0
   "bibtex/bib/IEEEabrv.bib" 1698376043 18228 da255d153550c33f371a561bc94632c2 ""
   "bibtex/bib/references.bib" 1698396634 275 c3562b97ebac679a5e846145d53ad060 ""
-  "build/main.bcf" 1698451833 107350 1afd4ec0008cf700adb0fafd5a00a350 "pdflatex"
+  "build/main.bcf" 1699307478 107350 1afd4ec0008cf700adb0fafd5a00a350 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1698451831 "c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1698451833 0
+["pdflatex"] 1699307475 "c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1699307479 2
   "C:/Users/estua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1698396475 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/estua/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1676175408 10805036 7fcb3f818bfee8f5da3bd514b8a6234a ""
   "C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -94,16 +94,16 @@
   "Pictures/pong.png" 1698376043 235598 26694fc8874828a559a1c4bd2629a8a6 ""
   "Pictures/pwm_verified.png" 1698376043 284384 9b57fd84af41a52837d4d5a9dfe41015 ""
   "Pictures/verifide_zacapa.png" 1698376043 217484 c050413d8fde3761449d46a02af0d0f7 ""
-  "abstract.tex" 1698376043 408 a5cc4ec88199dfa80add497799b639e3 ""
-  "build/main.aux" 1698451833 5789 d5624551b6386d7c359c9d260d56d7fe "pdflatex"
-  "build/main.bbl" 1698451826 2040 d7acaebed078962ceeeb1eed0aa8be38 "biber build/main"
-  "build/main.run.xml" 1698451833 2359 3772ee3a9362b8e991dcc84d65b52914 "pdflatex"
-  "c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex" 1698451808 16080 0c351636e2b1c5e527d0f15236f6f1c4 ""
+  "abstract.tex" 1699307441 1156 6483f61c33eb96d79ae594ebaf41cc50 ""
+  "build/main.aux" 1699307478 5789 3727cd77d8548211e929c8e97adb781f "pdflatex"
+  "build/main.bbl" 1699307475 2040 d7acaebed078962ceeeb1eed0aa8be38 "biber build/main"
+  "build/main.run.xml" 1699307478 2359 3772ee3a9362b8e991dcc84d65b52914 "pdflatex"
+  "c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex" 1699307441 16078 e992c108bcaf1def452f5e1baf19de9d ""
   "conclusion.tex" 1698376043 0 d41d8cd98f00b204e9800998ecf8427e ""
   "experimentation.tex" 1698449477 3708 9005f5b6108caf29abdaf58aeea6a8de ""
   "introduction.tex" 1698451819 5444 dbc06dde5d9e9f732ea741717266d64f ""
-  "main.tex" 1698451808 16080 0c351636e2b1c5e527d0f15236f6f1c4 ""
-  "results.tex" 1698393171 3334 468256c3b44bcb4839b5ed1076a944e2 ""
+  "main.tex" 1699307441 16078 e992c108bcaf1def452f5e1baf19de9d ""
+  "results.tex" 1699307441 3538 f2888efa54620e240944fdd39f091113 ""
   (generated)
   "build/main.aux"
   "build/main.bcf"
