@@ -1,13 +1,15 @@
 In this section, we present the final results for each individual verilog 
 filed we have submitted to the Tiny Tapeout initiative. The following figures 
-Show our verilog designs in a phisical layout, and the table \ref{tab:PorcentUtil} show 
+Show our verilog designs in a phisical layout, and the Table\ \ref{tab:PorcentUtil} show 
 a Porcentage utilize in length of waver per circuit.
 
 
 
-\subsection{Multi stage path for delay measurements}
-The multi stage path was submitted with no errors, and the final layout is shown in figure\ \ref{fig:delay_Layout}. The final layout is composed of 4 stages, each stage has 4 inverters and 4 transmission gates.
-\begin{figure}[tbh]
+\subsection{Multy stage path for delay measurements}
+
+The multy stage path was submitted with no errors, and the final layout is shown in figure\ \ref{fig:delay_Layout}. The layout was designed to be as compact as possible, and the final area was 0.63\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip. 
+
+\begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\linewidth]{Pictures/Result_Delay_2D_View.png}
@@ -17,12 +19,14 @@ The multi stage path was submitted with no errors, and the final layout is shown
         \includegraphics[width=\linewidth]{Pictures/Result_Delay_3D_View.png}
         \caption{View 3D}\label{fig:delay_3D}
     \end{subfigure}
-    \caption{Multi stage path for delay measurements layout}\label{fig:delay_Layout}
+    \caption{multy stage path for delay measurements layout}\label{fig:delay_Layout}
 \end{figure}
 
 \subsection{ASCII Text Printer Circuit}
-The circuit ASCII text printer was submitted with no errors, and the final layout is shown in figure\ \ref{fig:ASCII_Layout}.
-\begin{figure}[tbh]
+
+The circuit ASCII text printer was submitted with no errors, and the final layout is shown in figure\ \ref{fig:ASCII_Layout}. The layout was designed to be as compact as possible, and the final area was 17.87\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
+
+\begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\linewidth]{Pictures/Result_ASCII_2D_View.png}
@@ -37,7 +41,9 @@ The circuit ASCII text printer was submitted with no errors, and the final layou
 
 \subsection{Implementation of the Pong game}
 
-\begin{figure}[tbh]
+The circuit of the Pong game was submitted with no errors, and the final layout is shown in figure\ \ref{fig:Pong_Layout}. The layout was designed to be as compact as possible, and the final area was 28.82\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
+
+\begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\linewidth]{Pictures/Result_Pong_2D_View.png}
@@ -52,7 +58,9 @@ The circuit ASCII text printer was submitted with no errors, and the final layou
 
 \subsection{Pulse Width Modulation Generator}
 
-\begin{figure}[tbh]
+The circuit of the Pulse Width Modulation generator was submitted with no errors, and the final layout is shown in figure\ \ref{fig:PWM}. The layout was designed to be as compact as possible, and the final area was 9.59\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
+
+\begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
         \includegraphics[width=\linewidth]{Pictures/Result_PWM_2D_View.png}
@@ -67,13 +75,13 @@ The circuit ASCII text printer was submitted with no errors, and the final layou
 
 % Please add the following required packages to your document preamble:
 % \usepackage{graphicx}
-\begin{table}[tbh]
+\begin{table}[H]
     \centering
     \resizebox{\columnwidth}{!}{%
     \begin{tabular}{cc}
     \hline
     Circuit                                 & Porcentage utilize(\%) \\ \hline
-    Multi stage path for delay measurements & 0.63                  \\
+    Multy stage path for delay measurements & 0.63                  \\
     ASCII Text Printer Circuit              & 17.87                 \\
     Implementation of the Pong game         & 28.82                 \\
     Pulse Width Modulation Generator        & 9.59                  \\ \hline
