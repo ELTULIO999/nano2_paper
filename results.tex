@@ -1,13 +1,12 @@
-In this section, we present the final results for each individual verilog 
-filed we have submitted to the Tiny Tapeout initiative. The following figures 
-Show our verilog designs in a phisical layout, and the Table\ \ref{tab:PorcentUtil} show 
-a Porcentage utilize in length of waver per circuit.
+Following the submission of the verilog designs on September 5th, 2023, the Tiny Tapeout team began the process of verification. 
+The verification process consisted of a series of proprietary tests to ensure that the designs were correct and that they would be able to be fabricated.
+Subsequently, the Tiny Tapeout team reached out to confirm the approval for fabrication. The expected delivery date for the fabricated chips is on February 15th, 2024.
 
-
-
-\subsection{Multy stage path for delay measurements}
-
-The multy stage path was submitted with no errors, and the final layout is shown in figure\ \ref{fig:delay_Layout}. The layout was designed to be as compact as possible, and the final area was 0.63\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip. 
+The use of Github has allowed the design submission process to become more automated and streamlined. The use of Github has also allowed the Tiny Tapeout team to develop 
+interesting and innovative tools to aid in the intricacies of the designs making process. One of these tools is a 2D viewer that allows the user to view the final 
+layout of the design on the die and a 3D viewer that allows the user to see the different layers of the design to further understand the complexity of what is behind the 
+fabrication of a chip. The 2D and 3D viewers of each of the design submitted are shown in the figures \ref*{fig:delay_Layout}, \ref*{fig:ASCII_Layout}, \ref*{fig:Pong_Layout} and \ref*{fig:PWM} 
+were generated on the git repository of the respective git projects of each of the designs.
 
 \begin{figure}[H]
     \centering
@@ -19,12 +18,8 @@ The multy stage path was submitted with no errors, and the final layout is shown
         \includegraphics[width=\linewidth]{Pictures/Result_Delay_3D_View.png}
         \caption{View 3D}\label{fig:delay_3D}
     \end{subfigure}
-    \caption{multy stage path for delay measurements layout}\label{fig:delay_Layout}
+    \caption{multistage path for delay measurements layout}\label{fig:delay_Layout}
 \end{figure}
-
-\subsection{ASCII Text Printer Circuit}
-
-The circuit ASCII text printer was submitted with no errors, and the final layout is shown in figure\ \ref{fig:ASCII_Layout}. The layout was designed to be as compact as possible, and the final area was 17.87\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
 
 \begin{figure}[H]
     \centering
@@ -39,10 +34,6 @@ The circuit ASCII text printer was submitted with no errors, and the final layou
     \caption{ASCII text printer circuit layout}\label{fig:ASCII_Layout}
 \end{figure}
 
-\subsection{Implementation of the Pong game}
-
-The circuit of the Pong game was submitted with no errors, and the final layout is shown in figure\ \ref{fig:Pong_Layout}. The layout was designed to be as compact as possible, and the final area was 28.82\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
-
 \begin{figure}[H]
     \centering
     \begin{subfigure}[b]{0.45\textwidth}
@@ -55,10 +46,6 @@ The circuit of the Pong game was submitted with no errors, and the final layout 
     \end{subfigure}
     \caption{The Pong game layout}\label{fig:Pong_Layout}
 \end{figure}
-
-\subsection{Pulse Width Modulation Generator}
-
-The circuit of the Pulse Width Modulation generator was submitted with no errors, and the final layout is shown in figure\ \ref{fig:PWM}. The layout was designed to be as compact as possible, and the final area was 9.59\% (as showed in Table\ \ref*{tab:PorcentUtil}) of the total area of the chip.
 
 \begin{figure}[H]
     \centering
@@ -75,6 +62,27 @@ The circuit of the Pulse Width Modulation generator was submitted with no errors
 
 % Please add the following required packages to your document preamble:
 % \usepackage{graphicx}
+
+
+For a more in deep illustration on the complexity of the designs, figures \ref*{fig:Specific_Layout} 
+has been included to showcase the different layers of the Pulse Width Modulation generator design.
+The grey rectangles that can be observed in the figure are the N-wells for the transistors, 
+the diffusion junction are the white rectangles, the pink rectangles are the polysilicon layers, 
+the blue rectangles are the interconnect. 
+
+
+\begin{figure}[H]
+    \centering
+        \includegraphics[width=\linewidth]{Pictures/Specific_Layout.png}
+    \caption{ Label Pulse Width Modulation generator layout}\label{fig:Specific_Layout}
+\end{figure}
+
+The Tiny Tapeout initiative has some limitations that are given by the nature of the project, one of 
+the most important limitations to take inconsideration is the size of the die, due to this initiative being 
+a multi-project wafer the size of the die is limited to 160um x 100um. This sizes may vary depending on the 
+year of the initiative, due to how many projects are being submitted for fabrication. Table \ref*{tab:PorcentUtil}
+shows the percentage of the die that was utilized by each of the designs submitted.
+
 \begin{table}[H]
     \centering
     \resizebox{\columnwidth}{!}{%
@@ -89,4 +97,5 @@ The circuit of the Pulse Width Modulation generator was submitted with no errors
     }
     \caption{Porcentaje utilize in length of waver per circuit}\label{tab:PorcentUtil}
     \end{table}
-The links to the repositories with Verilog files are in the Appendix\ \ref{sec:GitHub}. In the repositories can find the Verilog files, the final layout, and the description of each circuit.
+
+    

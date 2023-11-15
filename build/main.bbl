@@ -19,6 +19,245 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{NIST2023Vision}{online}{}
+      \list{organization}{2}{%
+        {National Institute of Standards}%
+        {Technology (NIST)}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{title}{A Vision and Strategy for the National Semiconductor Technology Center}
+      \field{urlday}{7}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nist.gov/system/files/documents/2023/04/27/A%20Vision%20and%20Strategy%20for%20the%20NSTC.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nist.gov/system/files/documents/2023/04/27/A%20Vision%20and%20Strategy%20for%20the%20NSTC.pdf
+      \endverb
+    \endentry
+    \entry{CadenceDFM2023}{misc}{}
+      \list{organization}{1}{%
+        {Cadence}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{title}{Design for Manufacturing Overview}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/dfm-overview.html
+      \endverb
+      \verb{url}
+      \verb https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/dfm-overview.html
+      \endverb
+    \endentry
+    \entry{Freund2021AI}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f4fb87860437d3b6e0ef25e2474f98b5}{%
+           family={Freund},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \strng{fullhash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \strng{bibnamehash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \strng{authorbibnamehash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \strng{authornamehash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \strng{authorfullhash}{f4fb87860437d3b6e0ef25e2474f98b5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Synopsys, Cadence, Google and NVIDIA All Agree: Use AI to help design chips}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.forbes.com/sites/karlfreund/2021/08/09/using-ai-to-help-design-chips-has-become-a-thing/?sh=7b181d665d9d
+      \endverb
+      \verb{url}
+      \verb https://www.forbes.com/sites/karlfreund/2021/08/09/using-ai-to-help-design-chips-has-become-a-thing/?sh=7b181d665d9d
+      \endverb
+    \endentry
+    \entry{Gargini2021roadmapping}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f815673c90599954b833a8dfe1e08b11}{%
+           family={Gargini},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ed3bd95fada9a81c6535a19f14cf564a}{%
+           family={Balestra},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b8b133d2389192e8883f9ac2cf3b280e}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{710eefe685d23031234dc066a9b96232}
+      \strng{fullhash}{710eefe685d23031234dc066a9b96232}
+      \strng{bibnamehash}{710eefe685d23031234dc066a9b96232}
+      \strng{authorbibnamehash}{710eefe685d23031234dc066a9b96232}
+      \strng{authornamehash}{710eefe685d23031234dc066a9b96232}
+      \strng{authorfullhash}{710eefe685d23031234dc066a9b96232}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{1}
+      \field{title}{Roadmapping of nanoelectronics for the new electronics industry}
+      \field{volume}{12}
+      \field{year}{2021}
+      \field{pages}{308}
+      \range{pages}{1}
+    \endentry
+    \entry{SemiconductorManufacturing2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b59ab5a51dfe5f563489ad0bd3f265aa}{%
+           family={Haley},
+           familyi={H\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Semiconductor Engineering}%
+      }
+      \strng{namehash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \strng{fullhash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \strng{bibnamehash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \strng{authorbibnamehash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \strng{authornamehash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \strng{authorfullhash}{b59ab5a51dfe5f563489ad0bd3f265aa}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Week In Review: Semiconductor Manufacturing, Test}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://semiengineering.com/week-in-review-semiconductor-manufacturing-test-26/
+      \endverb
+      \verb{url}
+      \verb https://semiengineering.com/week-in-review-semiconductor-manufacturing-test-26/
+      \endverb
+    \endentry
+    \entry{Kettunen2022energizing}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8dd4e339273e054c9a64f5841e77b4fa}{%
+           family={Kettunen},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2015860e7683a6d47baedace1b5597c4}{%
+           family={Järvinen},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f0b36cf75e895dfcea7bbdc8b6c88b15}{%
+           family={Mikkonen},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=337c4136af58e54ca8f81eaf235736e9}{%
+           family={Männistö},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SpringerOpen}%
+      }
+      \strng{namehash}{13a6187304936ed18b80d86d43f99fa1}
+      \strng{fullhash}{7af582ce8923fb257dcbdc8b5fa66b5e}
+      \strng{bibnamehash}{13a6187304936ed18b80d86d43f99fa1}
+      \strng{authorbibnamehash}{13a6187304936ed18b80d86d43f99fa1}
+      \strng{authornamehash}{13a6187304936ed18b80d86d43f99fa1}
+      \strng{authorfullhash}{7af582ce8923fb257dcbdc8b5fa66b5e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Futures Research}
+      \field{number}{1}
+      \field{title}{Energizing collaborative industry-academia learning: a present case and future visions}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+    \entry{IntelArizona2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=155be227b50dd34e9ee3e057f0769f0d}{%
+           family={Leswing},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{155be227b50dd34e9ee3e057f0769f0d}
+      \strng{fullhash}{155be227b50dd34e9ee3e057f0769f0d}
+      \strng{bibnamehash}{155be227b50dd34e9ee3e057f0769f0d}
+      \strng{authorbibnamehash}{155be227b50dd34e9ee3e057f0769f0d}
+      \strng{authornamehash}{155be227b50dd34e9ee3e057f0769f0d}
+      \strng{authorfullhash}{155be227b50dd34e9ee3e057f0769f0d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intel is spending \$20 billion to build two new chip factories in Arizona}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.cnbc.com/2021/03/23/intel-is-spending-20-billion-to-build-two-new-chip-plants-in-arizona.html
+      \endverb
+      \verb{url}
+      \verb https://www.cnbc.com/2021/03/23/intel-is-spending-20-billion-to-build-two-new-chip-plants-in-arizona.html
+      \endverb
+    \endentry
+    \entry{IRDS2020}{misc}{}
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{Semiconductor Leaders - IEEE IRDS™}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://irds.ieee.org/topics/semiconductor-leaders
+      \endverb
+      \verb{url}
+      \verb https://irds.ieee.org/topics/semiconductor-leaders
+      \endverb
+    \endentry
     \entry{CSIS2023Reshoring}{report}{}
       \name{author}{3}{}{%
         {{hash=046bde656113f5e1b61027690955853b}{%
@@ -54,6 +293,44 @@
       \field{title}{Reshoring Semiconductor Manufacturing: Addressing the Workforce Challenge}
       \field{type}{techreport}
       \field{year}{2023}
+    \endentry
+    \entry{TinyTapeout}{misc}{}
+      \list{organization}{1}{%
+        {Tiny Tapeout}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{Tiny Tapeout}
+      \field{urlday}{16}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://tinytapeout.com/
+      \endverb
+      \verb{url}
+      \verb https://tinytapeout.com/
+      \endverb
+    \endentry
+    \entry{SynopsysEDA2023}{misc}{}
+      \list{organization}{1}{%
+        {Synopsys}%
+      }
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Electronic Design Automation (EDA)?}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+      \endverb
+      \verb{url}
+      \verb https://www.synopsys.com/glossary/what-is-electronic-design-automation.html
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
