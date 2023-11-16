@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  15 NOV 2023 19:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  15 NOV 2023 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -499,11 +499,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]) (experimentation.tex
-<Pictures/ExperimentalModel.png, id=9, 342.27875pt x 502.87875pt>
+<Pictures/ExperimentalModel.png, id=9, 205.36725pt x 301.72725pt>
 File: Pictures/ExperimentalModel.png Graphic file (type png)
 <use Pictures/ExperimentalModel.png>
 Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 7.
-(pdftex.def)             Requested size: 205.36882pt x 301.72957pt.
+(pdftex.def)             Requested size: 123.2213pt x 181.03773pt.
  (Exp_A.tex) (Exp_C.tex [2 <./Pictures/ExperimentalModel.png>]
 Underfull \hbox (badness 4899) in paragraph at lines 29--42
  \OT1/ptm/m/it/10 3) Im-ple-men-ta-tion of the Pong game: [][] \OT1/ptm/m/n/10 The Ver-ilog
@@ -543,28 +543,31 @@ Package pdftex.def Info: Pictures/delay_ver.png  used on input line 63.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./Pictures/pwm_verified.png>]) (results.tex
-<Pictures/Result_Delay_2D_View.png, id=23, 1858.945pt x 1288.815pt>
+ [3 <./Pictures/pwm_verified.png> <./Pictures/pong.png>]) (results.tex
+<Pictures/Result_Delay_2D_View.png, id=24, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Delay_2D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_2D_View.png>
 Package pdftex.def Info: Pictures/Result_Delay_2D_View.png  used on input line 14.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_Delay_3D_View.png, id=24, 1143.0705pt x 585.387pt>
+<Pictures/Result_Delay_3D_View.png, id=25, 1143.0705pt x 585.387pt>
 File: Pictures/Result_Delay_3D_View.png Graphic file (type png)
 <use Pictures/Result_Delay_3D_View.png>
 Package pdftex.def Info: Pictures/Result_Delay_3D_View.png  used on input line 18.
 (pdftex.def)             Requested size: 232.19843pt x 118.90643pt.
-<Pictures/Result_ASCII_2D_View.png, id=25, 1858.945pt x 1288.815pt>
+<Pictures/Result_ASCII_2D_View.png, id=26, 1858.945pt x 1288.815pt>
 File: Pictures/Result_ASCII_2D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_2D_View.png>
 Package pdftex.def Info: Pictures/Result_ASCII_2D_View.png  used on input line 27.
 (pdftex.def)             Requested size: 232.19843pt x 160.98349pt.
-<Pictures/Result_ASCII_3D_View.png, id=26, 1138.85475pt x 587.19376pt>
+<Pictures/Result_ASCII_3D_View.png, id=27, 1138.85475pt x 587.19376pt>
 File: Pictures/Result_ASCII_3D_View.png Graphic file (type png)
 <use Pictures/Result_ASCII_3D_View.png>
 Package pdftex.def Info: Pictures/Result_ASCII_3D_View.png  used on input line 31.
 (pdftex.def)             Requested size: 232.19843pt x 119.72142pt.
- [4 <./Pictures/pong.png> <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Pictures/verifide_zacapa.png> <./Pictures/delay_ver.png> <./Pictures/Result_Delay_2D_View.png> <./Pictures/Result_Delay_3D_View.png>]
 <Pictures/Result_Pong_2D_View.png, id=35, 1858.945pt x 1288.815pt>
 File: Pictures/Result_Pong_2D_View.png Graphic file (type png)
 <use Pictures/Result_Pong_2D_View.png>
@@ -594,7 +597,7 @@ Package pdftex.def Info: Pictures/Specific_Layout.png  used on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 97.
 ) (conclusion.tex) (appendix.tex) (appendixB.tex)
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 366.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 363.
  (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) (biography.tex) [6] (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
@@ -605,13 +608,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  12086 strings out of 475281
  238387 string characters out of 2774065
- 992552 words of memory out of 3000000
+ 993552 words of memory out of 3000000
  33429 multiletter control sequences out of 15000+600000
  507690 words of font info for 92 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 67i,9n,77p,953b,1325s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 67i,9n,77p,1038b,1325s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (6 pages, 8351636 bytes).
+Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (6 pages, 8365874 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
