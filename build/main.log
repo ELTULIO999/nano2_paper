@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  17 NOV 2023 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.26)  17 NOV 2023 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -495,7 +495,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]) (experimentation.tex
-<Pictures/ExperimentalModel.png, id=9, 205.36725pt x 301.72725pt>
+<Pictures/ExperimentalModel.png, id=9, 342.27875pt x 502.87875pt>
 File: Pictures/ExperimentalModel.png Graphic file (type png)
 <use Pictures/ExperimentalModel.png>
 Package pdftex.def Info: Pictures/ExperimentalModel.png  used on input line 7.
@@ -630,7 +630,7 @@ Here is how much of TeX's memory you used:
  1144 hyphenation exceptions out of 8191
  67i,10n,81p,1039b,1325s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (7 pages, 8905881 bytes).
+Output written on c:\Users\julit\Desktop\sem\00_nano2\nano2_paper\build\main.pdf (7 pages, 8891910 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
