@@ -1,33 +1,33 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.2.11)  15 NOV 2023 21:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.15)  17 NOV 2023 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex
-(c:/Users/estua/Documents/UVG/Nano2/nano2_paper/main.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-11-02> (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+**d:/uvg/10mo_semestre/Nano2/nano2_paper/main.tex
+(d:/uvg/10mo_semestre/Nano2/nano2_paper/main.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28> (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
-\@IEEEtrantmpdimenA=\dimen140
-\@IEEEtrantmpdimenB=\dimen141
-\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
 \@IEEEtrantmpcountA=\count185
 \@IEEEtrantmpcountB=\count186
 \@IEEEtrantmpcountC=\count187
 \@IEEEtrantmptoksA=\toks16
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
-(C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+(D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
-\@IEEEnormalsizeunitybaselineskip=\dimen143
+\@IEEEnormalsizeunitybaselineskip=\dimen141
 -- This is a 10 point document.
-\CLASSINFOnormalsizebaselineskip=\dimen144
-\CLASSINFOnormalsizeunitybaselineskip=\dimen145
-\IEEEnormaljot=\dimen146
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
@@ -68,70 +68,72 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
-\IEEEquantizedlength=\dimen147
-\IEEEquantizedlengthdiff=\dimen148
-\IEEEquantizedtextheightdiff=\dimen149
-\IEEEilabelindentA=\dimen150
-\IEEEilabelindentB=\dimen151
-\IEEEilabelindent=\dimen152
-\IEEEelabelindent=\dimen153
-\IEEEdlabelindent=\dimen154
-\IEEElabelindent=\dimen155
-\IEEEiednormlabelsep=\dimen156
-\IEEEiedmathlabelsep=\dimen157
-\IEEEiedtopsep=\skip48
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
 \c@section=\count188
 \c@subsection=\count189
 \c@subsubsection=\count190
 \c@paragraph=\count191
 \c@IEEEsubequation=\count192
-\abovecaptionskip=\skip49
-\belowcaptionskip=\skip50
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \c@figure=\count193
 \c@table=\count194
 \@IEEEeqnnumcols=\count195
 \@IEEEeqncolcnt=\count196
 \@IEEEsubeqnnumrollback=\count197
-\@IEEEquantizeheightA=\dimen158
-\@IEEEquantizeheightB=\dimen159
-\@IEEEquantizeheightC=\dimen160
-\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
 \@IEEEquantizemultiple=\count198
 \@IEEEquantizeboxA=\box51
-\@IEEEtmpitemindent=\dimen162
-\IEEEPARstartletwidth=\dimen163
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
 \c@IEEEbiography=\count199
 \@IEEEtranrubishbin=\box52
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen162
+\stockheight=\dimen163
 ))
 \Gin@req@height=\dimen164
 \Gin@req@width=\dimen165
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count266
 \float@exts=\toks18
 \float@box=\box53
 \@float@everytoks=\toks19
 \@floatcapt=\box54
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen166
 \captionmargin=\dimen167
@@ -158,7 +160,7 @@ Package caption Info: New subtype `subfigure' on input line 239.
 \c@subfigure=\count269
 Package caption Info: New subtype `subtable' on input line 239.
 \c@subtable=\count270
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen174
 \lightrulewidth=\dimen175
@@ -177,35 +179,35 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count273
 \@lastruleclass=\count274
 \@thisrulewidth=\dimen186
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count275
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+)) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count276
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -252,14 +254,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@sectionciteorderinternal@0=\count317
 \blx@entrysetcounter=\count318
 \blx@biblioinstance=\count319
-\labelnumberwidth=\skip51
-\labelalphawidth=\skip52
-\biblabelsep=\skip53
-\bibitemsep=\skip54
-\bibnamesep=\skip55
-\bibinitsep=\skip56
-\bibparsep=\skip57
-\bibhang=\skip58
+\labelnumberwidth=\skip50
+\labelalphawidth=\skip51
+\biblabelsep=\skip52
+\bibitemsep=\skip53
+\bibnamesep=\skip54
+\bibinitsep=\skip55
+\bibparsep=\skip56
+\bibhang=\skip57
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language79
@@ -268,7 +270,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count322
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -341,28 +343,28 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count388
 \c@pageref=\count389
 \c@savedpageref=\count390
-\shorthandwidth=\skip59
-\shortjournalwidth=\skip60
-\shortserieswidth=\skip61
-\shorttitlewidth=\skip62
-\shortauthorwidth=\skip63
-\shorteditorwidth=\skip64
-\locallabelnumberwidth=\skip65
-\locallabelalphawidth=\skip66
-\localshorthandwidth=\skip67
-\localshortjournalwidth=\skip68
-\localshortserieswidth=\skip69
-\localshorttitlewidth=\skip70
-\localshortauthorwidth=\skip71
-\localshorteditorwidth=\skip72
+\shorthandwidth=\skip58
+\shortjournalwidth=\skip59
+\shortserieswidth=\skip60
+\shorttitlewidth=\skip61
+\shortauthorwidth=\skip62
+\shorteditorwidth=\skip63
+\locallabelnumberwidth=\skip64
+\locallabelalphawidth=\skip65
+\localshorthandwidth=\skip66
+\localshortjournalwidth=\skip67
+\localshortserieswidth=\skip68
+\localshorttitlewidth=\skip69
+\localshortauthorwidth=\skip70
+\localshorteditorwidth=\skip71
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 \c@textcitecount=\count391
 \c@textcitetotal=\count392
@@ -380,18 +382,18 @@ File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
 File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count400
 \c@bbx:relatedtotal=\count401
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
 File: numeric.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -407,30 +409,30 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-11-02 L3 programming layer (loader) 
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count402
 \l__pdf_internal_box=\box55
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-11-02 L3 programming layer (loader) 
+(biblatex)             2022-09-28 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2022-06-22 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
 ))
 \@quotelevel=\count403
 \@quotereset=\count404
- (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
+ (d:\uvg\10mo_semestre\Nano2\nano2_paper\build\main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 253.
@@ -449,7 +451,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 253.
 LaTeX Font Info:    ... okay on input line 253.
 
 -- Lines per column: 58 (exact).
-(C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count405
 \scratchdimen=\dimen187
@@ -462,17 +464,17 @@ LaTeX Font Info:    ... okay on input line 253.
 \MPnumerator=\count409
 \makeMPintoPDFobject=\count410
 \everyMPtoPDFconversion=\toks21
-) (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -482,7 +484,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.bbl)
+ (d:\uvg\10mo_semestre\Nano2\nano2_paper\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 253.
 Package biblatex Info: Reference segment=0 on input line 253.
  (abstract.tex) (introduction.tex
@@ -490,7 +492,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 29.
- [1{C:/Users/estua/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+ [1{D:/Users/AngelOrellana/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
 ]) (experimentation.tex
@@ -595,25 +597,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 97.
 ) (conclusion.tex) (appendix.tex) (appendixB.tex)
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 363.
- (C:\Users\estua\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+ (D:\Users\AngelOrellana\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) (biography.tex) [6] (c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.aux)
+) (biography.tex
+<Pictures/angel.jpg, id=50, 1204.5pt x 1606.0pt>
+File: Pictures/angel.jpg Graphic file (type jpg)
+<use Pictures/angel.jpg>
+Package pdftex.def Info: Pictures/angel.jpg  used on input line 1.
+(pdftex.def)             Requested size: 67.7456pt x 90.32747pt.
+File: Pictures/angel.jpg Graphic file (type jpg)
+<use Pictures/angel.jpg>
+Package pdftex.def Info: Pictures/angel.jpg  used on input line 1.
+(pdftex.def)             Requested size: 67.7456pt x 90.32747pt.
+) [6 <./Pictures/angel.jpg>] (d:\uvg\10mo_semestre\Nano2\nano2_paper\build\main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12077 strings out of 475281
- 238299 string characters out of 2774065
- 993552 words of memory out of 3000000
- 33424 multiletter control sequences out of 15000+600000
- 505152 words of font info for 87 fonts, out of 8000000 for 9000
+ 12086 strings out of 475385
+ 239121 string characters out of 2773131
+ 992779 words of memory out of 3000000
+ 33326 multiletter control sequences out of 15000+600000
+ 506259 words of font info for 88 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 67i,9n,77p,1038b,1325s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/estua/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:\Users\estua\Documents\UVG\Nano2\nano2_paper\build\main.pdf (6 pages, 8366349 bytes).
+ 67i,10n,77p,1030b,1325s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/Users/AngelOrellana/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:\uvg\10mo_semestre\Nano2\nano2_paper\build\main.pdf (6 pages, 8553101 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 
