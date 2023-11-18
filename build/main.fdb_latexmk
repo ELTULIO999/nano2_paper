@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber build/main"] 1700262642 "build/main.bcf" "build/main.bbl" "build/main" 1700267004 0
-  "build/main.bcf" 1700267003 108578 8df8474b7d20bbdca28663ef3f71f3ca "pdflatex"
+["biber build/main"] 1700262642 "build/main.bcf" "build/main.bbl" "build/main" 1700267166 0
+  "build/main.bcf" 1700267165 108578 8df8474b7d20bbdca28663ef3f71f3ca "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1700266990 "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1700267004 0
+["pdflatex"] 1700267152 "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" "build/main.pdf" "main" 1700267166 0
   "C:/Users/julit/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1699308058 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/julit/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1698377051 24175185 656cae3274cea36096659d48ff58c41c ""
   "C:/Users/julit/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -81,7 +81,6 @@
   "Exp_C.tex" 1699304914 3453 a7772ff1d84c790442341fa6c5473ed2 ""
   "Exp_D.tex" 1698371252 838 e5038d2c028b62a471c184166ec3302f ""
   "Pictures/ExperimentalModel.png" 1700263809 32464 d6067fb17fc89e3e36e7ecdc522289ae ""
-  "Pictures/Julio.jpg" 1700266807 78468 a2bcac5bd870776b805fda9e537618b4 ""
   "Pictures/Result_ASCII_2D_View.png" 1698371252 267447 a38790e8474134adb905a73b9ac6eb37 ""
   "Pictures/Result_ASCII_3D_View.png" 1698371252 2170030 9088b25ae7298c0f8742f7e9a363600f ""
   "Pictures/Result_Delay_2D_View.png" 1698371252 153332 cd8c2010e51205d0eef2cbe280391926 ""
@@ -100,10 +99,10 @@
   "abstract.tex" 1700266068 1331 0f328b1f036545dd93664f62e9f2ba33 ""
   "appendix.tex" 1699658135 548 4e0c0e3ba7f8ca6fb447ddfd55fd7186 ""
   "appendixB.tex" 1700261787 92 1ecdde2f3bf7503aebc878cfb84e330a ""
-  "biography.tex" 1700266988 1195 f9d59b649aecb7e568c7d215d74f6cfa ""
-  "build/main.aux" 1700267003 7176 fcf42486811794a12c7ed2bff5a2392a "pdflatex"
+  "biography.tex" 1700267136 645 eb5c48f3be186a443c6a82b786d638b5 ""
+  "build/main.aux" 1700267165 7086 fddac78156a606cacb1f0dfd6d4b6ac6 "pdflatex"
   "build/main.bbl" 1700262651 12756 0747bc6d106495ff0a7699ca3dd7ecf3 "biber build/main"
-  "build/main.run.xml" 1700267003 2359 3772ee3a9362b8e991dcc84d65b52914 "pdflatex"
+  "build/main.run.xml" 1700267165 2359 3772ee3a9362b8e991dcc84d65b52914 "pdflatex"
   "c:/Users/julit/Desktop/sem/00_nano2/nano2_paper/main.tex" 1700185552 15783 68cf66ffc183d91f3095d501ceaa6083 ""
   "conclusion.tex" 1700185552 1411 8b5ec29f8252e8c6dfd2ea9b5c42d677 ""
   "experimentation.tex" 1700263555 3737 b4b0ecf41a296b6ad2baf1317ed90b73 ""
